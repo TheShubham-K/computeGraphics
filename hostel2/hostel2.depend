@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1620967833 source:c:\users\shaun_pc\desktop\hostel2\main.cpp
+	<stdio.h>
+	<math.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<errno.h>
+	<GL\GL.h>
+	<GL\GLU.h>
+	<time.h>
+	<GL\glut.h>
+	"Humanoid.h"
+
+1618403378 c:\users\shaun_pc\desktop\hostel2\humanoid.h
+	"Torso.h"
+	"Head.h"
+	"UpperLimb.h"
+	"LowerLimb.h"
+
+1488258624 c:\users\shaun_pc\desktop\hostel2\torso.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+
+1618403386 c:\users\shaun_pc\desktop\hostel2\head.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Part.h"
+
+1488258624 c:\users\shaun_pc\desktop\hostel2\part.h
+
+1488258624 c:\users\shaun_pc\desktop\hostel2\upperlimb.h
+
+1488258624 c:\users\shaun_pc\desktop\hostel2\lowerlimb.h
+

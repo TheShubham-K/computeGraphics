@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1620027980 source:c:\users\shaun_pc\downloads\projshipinterior\projshipinterior\main.c
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<GL/glut.h>
+	<math.h>
+	<stdio.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<GL/glut.h>
+	<math.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+
